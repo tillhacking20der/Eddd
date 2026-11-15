@@ -1,0 +1,8 @@
+{
+   "aternos": {
+      "username": " muffinlqq",
+      "password": " 3T6Q(m6>f@d6,4Xy"
+   },
+   "token": "MTU1MzY4MDc4OTA1NTQ3MTY3Nw.GKEsOC.UZm3O2aY_5Py5YogLyTniv2AKQ9Bv4gmnYVw7I",
+   "current": null
+}
